@@ -4,3 +4,6 @@
 /magic/libgnurx-0.dll
 /magic/libmagic-1.dll
 /magic/magic.mgc
+__pycache__/
+.pytest_cache/
+dist/
